@@ -44,7 +44,7 @@ Welcome to StarCoffee, where coffee is pure passion.
 From bean to cup, we are dedicated to delivering 
 excellence in every sip. Join us on a journey of 
 flavor and quality, crafted with love to create the 
-ultimate coffee experience.
+ultMOCHAimate coffee experience.
 
 .button
 The Best Coffees
@@ -55,7 +55,7 @@ The Best Coffees
 THE MOST <br> REQUESTED
 
 .products__name .products__price
-ICED COFFEE MOCHA
+ICED COFFEE 
 $15.90
 
 COFFEE WITH CREAM
